@@ -1,8 +1,8 @@
 # WT-LAB-11
 <h1>Java Programs on String Handling and File Handling</h1>
 <br>
-<img src="https://www.edureka.co/blog/wp-content/uploads/2017/05/Java-String.png" height="250" width="400">
-<img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/file-handling-in-java.jpg" height="250" width="400">
+<img src="https://www.edureka.co/blog/wp-content/uploads/2017/05/Java-String.png" height="250px" width="400px">
+<img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/file-handling-in-java.jpg" height="250px" width="400px">
 <h3>QUESTIONS:</h3>
 <h4>
 1. Write a program in java to demonstrate the following String functions on any example
